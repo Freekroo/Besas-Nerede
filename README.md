@@ -6,3 +6,5 @@
 Sonrasında Bursa Büyükşehir Belediyesine bağlı olan Besaş markasının şubelerini harita üzerinden görebileceimiz BESAŞ sitesine bir sayfa tasarladım. Öncelikle navbar ve footer componentlerini oluşturdum. Sonrasında markanın renklerine ve kendi site tasarımına göre bu componentlerin css dosyalarını düzenledim. Ardından sitedeki API linkini BesasMap.jsx componentine aktarmaya çalıştım ancak sitedeki link çalışmadı. Bende bu yüzden sitede paylaşılan csv dosyasını json dosyasına çevirdim ve ordan veri çektim. JSON dosyası düzgün çalışsın diye localhostu 3000 olarak ayarladım.
 
 Vercel Domain Linki: https://besas-nerede.vercel.app/
+
+Vercel e yüklediğimde Marker resimleri yüklenmedi ancak popup düzgün bir şekilde çalışıyor. VS Code üzerinden çalıştırdığımda herhangi bir problem yaşamamıştım.
