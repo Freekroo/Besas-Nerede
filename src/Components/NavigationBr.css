@@ -1,0 +1,18 @@
+.nav-design {
+  background-color: #218148;
+}
+
+.brand-design {
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.img-design {
+  text-align: center;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin-left: 500px;
+}

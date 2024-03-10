@@ -1,0 +1,4342 @@
+[
+  {
+    "id": "bursa_besassatisnoktalari.1",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SARILAR SÜTHANESİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.17216476, 29.087546135]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.2",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BİZİM YUMURTACI",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.205896862, 29.069773711]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.3",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KARDEŞLER MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.183954954, 29.085188857]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.4",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜZELYALI 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.355977711, 28.924678381]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.5",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HASIR KEYF",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.260387899, 29.020290318]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.6",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GENÇOĞLU BAKKALI",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.246687309, 29.018916034]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.7",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YASİN GIDA PAZ.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.270508935, 29.096811043]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.8",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İSMETİYE GIDA MAD.TURZ.TİC. LTD.ŞTİ.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.264509764, 29.111898379]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.9",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YAVUZ MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.239329847, 28.907999313]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.10",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "POLAT MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.175904835, 29.109083192]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.11",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "UMUT MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.180969785, 29.13963758]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.12",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İSTANBUL GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.19554523, 29.090912044]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.13",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KEREM BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191218369, 29.119002368]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.14",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇARDAK GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.180454492, 29.063461977]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.15",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ACAR MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.18375217, 29.057088804]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.16",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜLŞAH MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.250892293, 28.971659873]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.17",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DERELİ BAKKALİYESİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.186103029, 29.092007339]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.18",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ERTE KURUYEMİŞ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.190896934, 29.148661468]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.19",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "NURCAN BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.192091775, 29.089855697]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.20",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AKDOĞAN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.2023204, 29.102468255]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.21",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZCAN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.178156346, 29.096383755]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.22",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AKPINAR MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.198650138, 29.010897011]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.23",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZLER MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.215226828, 29.104975498]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.24",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AKTAŞ BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.204000151, 29.091106674]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.25",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YILDIZ MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.198085135, 29.095894373]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.26",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAŞAK A.V.M",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.238904706, 28.984945525]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.27",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YILMAZ BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.181043685, 29.085312681]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.28",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İLMAN BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.192159517, 29.059882387]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.29",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GENÇLER MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.222009967, 29.120835867]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.30",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ERDİN BAKKALI",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.210706034, 29.065778264]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.31",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KOŞUKAVAK MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.304753265, 29.058540294]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.32",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BEREKET MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.18000212, 29.090479821]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.33",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇAĞDAŞ TUHAFİYE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.214756627, 28.923577041]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.34",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜNAY A.V.M.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.19433876, 28.850036771]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.35",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ABLANIN YERİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.244615938, 29.002222556]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.36",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "CEBECİ MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.297188336, 29.021812655]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.37",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ULUDAĞ GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.484845814, 29.305086684]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.38",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖNER GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.245199226, 28.938628698]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.39",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ARFA MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.208137093, 29.034376925]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.40",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZTÜRK KURUYEMİŞ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191170929, 29.083737683]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.41",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KARDEŞLER MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.237849541, 28.978671721]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.42",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜNEŞ MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.204585448, 29.107178225]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.43",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BALI ÇİFTLİĞİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.194434094, 29.055744757]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.44",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ADIYAMAN ÇİĞ KÖFTE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.193797198, 28.991067641]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.45",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YAŞKAP TİCARET LTD.ŞTİ.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.212019806, 29.196680985]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.46",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "UCZ SİSTEM MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.193074893, 29.087844015]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.47",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAŞARAN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.214124154, 29.071882381]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.48",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAĞLARBAŞI 16",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.23373232, 28.986775551]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.49",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MURADİYE 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.190536879, 29.047103852]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.50",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KÜPLÜPINAR 11",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.20591589, 29.055383433]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.51",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "PANAYIR 3",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.246088304, 29.066242837]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.52",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÖRÜKLE 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.224319246, 28.846343894]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.53",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇEKİRGE 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.201029899, 29.02982709]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.54",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BEŞEVLER 9 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.20960707, 28.966882551]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.55",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ARDA MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.211900224, 29.09326588]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.56",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "PEYNİR PAZARI",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.18304489, 29.097755081]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.57",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YAPRAK MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.212777955, 29.099867998]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.58",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HÜLYA MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.189227875, 29.153721544]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.59",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SÜNGÜ BAKKALİYESİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.184494304, 29.134271702]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.60",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YUSUF MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.261000472, 29.017165425]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.61",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇAĞLAR MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.184917059, 29.04488926]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.62",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SERKAN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.183860778, 29.047709781]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.63",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇELİK BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.202183375, 29.126514751]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.64",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇAKIRLAR AVM",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.198365468, 29.111428764]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.65",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "EKOMİNİ MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.204700385, 29.10206721]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.66",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZDEN A.V.M",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.348200267, 28.928287586]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.67",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ŞİMŞEK MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.235712321, 28.989432028]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.68",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MURPA AVM",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.172663338, 29.079935638]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.69",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZKUL KURUYEMİŞ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.183792909, 29.095589478]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.70",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KAYA MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.358284011, 28.910079944]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.71",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HASMAR MARKET 2",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.175493928, 29.109251884]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.72",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "EMEL MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.356836495, 28.921997345]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.73",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BALİ BEY HAN SOSYAL TES.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.185809958, 29.059188508]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.74",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SIRAMEŞELER 3",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.211177858, 29.030077529]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.75",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAĞLARBAŞI 4  REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.240204992, 28.998015355]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.76",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YEŞİL 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.182162315, 29.074784169]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.77",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ATAEVLER 17 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.217796981, 28.954798313]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.78",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAĞLARBAŞI 5",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.241377467, 28.992553473]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.79",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DİKKALDIRIM 2",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.204089421, 29.006981256]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.80",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HAMİTLER 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.247214884, 28.997338736]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.81",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜLLÜK 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.188254812, 29.120165416]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.82",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İHSANİYE 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.222066439, 28.983587426]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.83",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAŞARAN 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.20990009, 29.073366427]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.84",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MİMARSİNAN 2",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191104777, 29.1258607]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.85",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HACİVAT 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.19641206, 29.145968421]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.86",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SIRAMEŞELER 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.205022394, 29.033261783]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.87",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "EMİRSULTAN 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.182009283, 29.082289981]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.88",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YENİBAĞLAR 10 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.256674276, 28.970519347]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.89",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "TAHTAKALE 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.183685161, 29.06055475]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.90",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İHSANİYE 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.220375903, 28.993122608]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.91",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MUDANYA 19 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.374738577, 28.885790564]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.92",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MOLLAARAP 4",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.174807162, 29.075160056]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.93",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ZÜMRÜTEVLER 6",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.173656836, 29.088452814]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.94",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BARUTHANE 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.184590072, 29.097113753]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.95",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÖÇMENKONUTLAR 4",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.218986904, 28.821287112]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.96",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÖÇMEN KONUTLAR 5",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.217080165, 28.817862704]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.97",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÖÇMENKONUTLAR 2",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.21588096, 28.810352542]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.98",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HAMİTLER 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.248132332, 28.990751608]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.99",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "K.BALIKLI 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.216990858, 29.079944858]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.100",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SELÇUKBEY 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.182511435, 29.118131068]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.101",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ERİKLİ 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.1896397, 29.141065784]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.102",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SELAMET 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.202411588, 29.07212791]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.103",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÜÇEVLER 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.196325033, 28.945758523]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.104",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HOCA HASAN 4",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.192336812, 29.061563563]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.105",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KÜPLÜPINAR 4",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.202631378, 29.05073688]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.106",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DAVUT DEDE 2 \nREYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.187939727, 29.084942737]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.107",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇIRPAN 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.194733217, 29.052045706]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.108",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SOĞUKKUYU 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.218142909, 29.003743019]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.109",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇİFTE HAVUZLAR 3",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.215868229, 29.058410082]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.110",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAŞARAN 8 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.211124646, 29.071609404]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.111",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "FATİH 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.216955019, 29.056818879]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.112",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HÜRRİYET 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.222036908, 29.00466774]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.113",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ALTINOVA 11 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.214506634, 29.067175048]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.114",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "Y.KARAMAN 6 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.222806192, 28.999051208]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.115",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AYAZMA 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.242831038, 29.013738852]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.116",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İHSANİYE 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.225879214, 28.981704528]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.117",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "PİREMİR 10 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.176560085, 29.081861472]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.118",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "OVAAKÇA 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.297856647, 29.065079549]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.119",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜZELYALI 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.356077434, 28.924428923]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.120",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İVAZPAŞA 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.180365272, 29.056675941]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.121",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ANADOLU 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.194521941, 29.095951342]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.122",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MİLLET 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.2141495, 29.094979592]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.123",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAĞLARBAŞI 13 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.239284373, 28.987611583]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.124",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KÜPLÜPINAR 12",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.20333309, 29.05743982]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.125",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAĞLARBAŞI 14",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.243736254, 28.995640046]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.126",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DEĞİRMENLİKIZIK 6",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.181341826, 29.104517089]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.127",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ATAEVLER 15 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.221092708, 28.96558417]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.128",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "CUMHURİYET 3\n REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.224467082, 28.969654672]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.129",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YENİBAĞLAR 9 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.253902038, 28.971445374]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.130",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SELÇUKBEY 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.18139654, 29.11278735]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.131",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "TUNA 9 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.208696788, 29.058473279]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.132",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇİRİŞHANE 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.205535489, 29.051703524]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.133",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KARAAĞAÇ 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.176782887, 29.07000848]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.134",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HACI SEYFETTİN 2",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.184776248, 29.079942217]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.135",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜNEŞTEPE 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.253668961, 28.999038411]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.136",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ZAFER 5  REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.194989022, 29.079014018]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.137",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GAZİ AKDEMİR 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.20297156, 29.046197134]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.138",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YENİ BAĞLAR 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.249413608, 28.972811137]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.139",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SOĞUK KUYU 4",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.216866432, 29.010066711]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.140",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "152 EVLER 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.189932896, 29.107173955]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.141",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "100. YIL 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.219553466, 28.895321192]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.142",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MUDANYA 13",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.376902293, 28.884101329]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.143",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "VATAN 6 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.201452082, 29.08941248]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.144",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SELAMET 6 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.199304312, 29.073044003]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.145",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇİFTEHAVUZLAR 14",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.211460578, 29.058353004]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.146",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AKÇAĞLAYAN TOKİ 4",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.174297966, 29.105582624]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.147",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ERTUĞRULGAZİ 1",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.179124977, 29.112588613]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.148",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ALEMDAR 9 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.213951197, 29.038870785]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.149",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÜÇEVLER 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.199388229, 28.951236614]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.150",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ALEMDAR 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.210408238, 29.03423412]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.151",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ESENEVLER 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191040735, 29.144763346]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.152",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ATAEVLER 16",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.220739993, 28.956376083]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.153",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YUNUSELİ 16",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.255594996, 29.014126198]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.154",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HACI İLYAS 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191057266, 29.070306969]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.155",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "FETHİYE 9 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.233023674, 28.975109841]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.156",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ESENTEPE 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.227629398, 28.98507726]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.157",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BUSKİ 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.215997894, 29.014784263]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.158",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜLBAHÇE 3",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.203923684, 29.074503208]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.159",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MUDANYA 15",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.381391245, 28.877126292]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.160",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "75.YIL 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.183341729, 29.147918172]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.161",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "NAMAZGAH 8 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.1775821, 29.076194883]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.162",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KİREMİTÇİ 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.193403484, 29.064462086]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.163",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "TEFERRÜÇ 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.17128624, 29.082983857]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.164",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ALTINOVA 10 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.213077875, 29.065739989]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.165",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HASANAĞA TOKİ 4",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.203175197, 28.803282498]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.166",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "CUMHURİYET 5",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.222650354, 28.973198987]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.167",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BARIŞ 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.218461525, 28.961212859]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.168",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜZELYALI 9 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.35892294, 28.915892796]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.169",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAHAR 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.198806184, 29.066611682]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.170",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BEŞEVLER 6 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.212253878, 28.97108027]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.171",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DEMETEVLER 5",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.204071788, 29.171853326]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.172",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ERTUĞRULKENT 1",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.227212033, 28.908299528]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.173",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "TUNA 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.208698138, 29.058473207]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.174",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "100.YIL 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.21942189, 28.900407716]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.175",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KAPLIKAYA 5  REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.175026669, 29.115533015]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.176",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YUNUSELİ 13",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.250247053, 29.009283773]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.177",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YENİ BAĞLAR 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.253804263, 28.976022248]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.178",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ADALET 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.227522451, 29.004280575]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.179",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SOĞANLI 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.204389368, 29.047916808]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.180",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KÖŞEM MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.180160041, 29.08692006]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.181",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MURAT AVM",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.21515885, 29.195467389]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.182",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YAPRAK MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.218870932, 29.05556981]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.183",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SEZER SHOPPİNG",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.205010528, 29.103741962]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.184",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ELİT MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.180035319, 29.132263638]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.185",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜRLER MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.2119386, 28.960535536]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.186",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "CEBEL BAKKALİYESİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.218564655, 29.122170301]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.187",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "PEKER MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.353384874, 28.931369069]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.188",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ŞAYPA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.301972248, 29.059105405]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.189",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇAMLICA  SOSYAL TESİSİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.200979077, 28.976705533]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.190",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "EMİRBUHARİ KÜLTÜR MERKEZİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.182284666, 29.08139324]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.191",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÖNÜL DOSTLARI",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.198771053, 29.051677416]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.192",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MANTI EVİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.199079054, 29.051091826]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.193",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HÜNKAR KÖŞKÜ SOSYAL TES.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.175116692, 29.065522107]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.194",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KARAFATMA  SOSYAL TES.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.207935826, 28.974142058]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.195",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KESTEL SOSYAL TESİSLERİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.197089922, 29.213261089]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.196",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KESTEL SOSYAL TESİSLERİ HÜDAVENDİGAR PARK  KAFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.18971707, 29.213594915]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.197",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GEYVE HAN MEYDAN KAFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.186151253, 29.063413168]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.198",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MUDANYA SOSYAL TESİSİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.374290662, 28.889930298]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.199",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MAHFEL",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.181546677, 29.07045573]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.200",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "NARLI SOSYAL TESİSİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.479573328, 29.051704074]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.201",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜRSU DEĞİRMEN SOSYAL TESİSLERİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.207556205, 29.190543712]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.202",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DOBURCA SOS. TESİSİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.185516281, 29.007590245]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.203",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ŞÜKRANİYE 2\n REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.18897243, 29.093324941]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.204",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ACAR SÜT MAMÜLLERİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.20820686, 28.96423573]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.205",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "VEZİRŞAH MARKET \nGÖRÜKLE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.203337876, 28.962507092]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.206",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "VEZİRŞAH MARKET \nGÖRÜKLE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.22702231, 28.841382605]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.207",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YALÇIN TEKİN \nGIDA LTD.ŞTİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.219115267, 28.925580566]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.208",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KAHVALTI MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.201370046, 29.067521514]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.209",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZ KAYALAR AVM",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.19603168, 29.142053213]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.210",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZ MEY GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.205489786, 29.063594818]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.211",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SULTAN MENZİL KURUYEMİŞ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.180854883, 29.070355334]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.212",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YILMAZLAR BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.179563738, 29.125277659]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.213",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "OYSAN GIDA LTD.ŞTİ.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.22245907, 29.103644308]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.214",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ALP MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.202872203, 29.066114729]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.215",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YILMAZ MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.371364758, 28.889817189]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.216",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜNEŞ MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.433284756, 29.157367727]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.217",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MEDSA GIDA LTD.ŞTİ.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.384373955, 29.077241163]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.218",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BEYZA GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.178617221, 29.054612449]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.219",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÖKSEL GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.200390027, 29.05793061]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.220",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SEVAL MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.284929676, 28.947426565]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.221",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "RIZIK GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.175819057, 29.077594799]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.222",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İKİZLER MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.300119832, 29.058824687]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.223",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜRASLAN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.355088516, 28.913663985]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.224",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ELMAS MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191299424, 29.073805786]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.225",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "EMİNOĞLU MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.210556836, 29.192209108]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.226",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜR YILDIZ GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.211561532, 29.19674427]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.227",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AKŞİT MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.236502548, 28.976328287]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.228",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KARAN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.261164786, 28.964689185]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.229",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KOPALLAR GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.17857682, 29.100268208]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.230",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AYVAZ TEKEL BAYİİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.176682963, 29.092324446]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.231",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "TEMEL BAKKALI",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.1880097, 29.111414341]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.232",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AYDIN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.17749347, 29.097429375]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.233",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇALIKOĞLU MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.181056285, 29.052567116]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.234",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZMAR MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.172301179, 29.078634311]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.235",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ALYAY GIDA SAN.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.212661497, 29.05076773]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.236",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İREM ŞARKÜTERİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.174451306, 29.074514793]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.237",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SEFA GIDA SAN.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.183848681, 29.058896126]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.238",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SED-K MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.208189623, 29.066431385]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.239",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YILMAR MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.21687651, 29.198581038]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.240",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAHAR MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.243573694, 28.992253502]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.241",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ERAYLAR GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.215275455, 29.000728945]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.242",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HUZUR MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.251535744, 29.017180789]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.243",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÖNÜL BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191120473, 29.061622284]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.244",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ERKİN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.231159704, 28.841727215]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.245",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAHAR BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.221252792, 29.186049488]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.246",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AZRA MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.333318553, 29.031275811]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.247",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DOĞ-PA MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.239708191, 29.094264663]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.248",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DEDE GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.236495792, 28.982696715]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.249",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BURCU MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.198031525, 28.953379556]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.250",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DEREBAŞI MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.363818019, 28.908448869]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.251",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SADIK MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.272543331, 29.085556473]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.252",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HAYAT GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.200675723, 29.065473531]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.253",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜVEN KIRTASİYE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.203677442, 29.067774128]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.254",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HAKAN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.275967067, 29.091095753]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.255",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DÖRTEL MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.273406812, 29.101986291]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.256",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KESKA BİL.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.28103017, 29.063872828]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.257",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AKÇA GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.264584702, 28.957466464]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.258",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BACACI KARDEŞLER",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.258708399, 28.963539004]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.259",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜNEŞTEPE 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.257429129, 29.00169157]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.260",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜZELYALI 6 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.354784587, 28.930285488]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.261",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KURTULUŞ REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.207551426, 29.189702138]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.262",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HÜDAVENDİGAR 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.202008151, 29.008694293]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.263",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MEVLANA REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.203237669, 29.114485192]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.264",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "TUZPAZARI REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.188141784, 29.068370081]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.265",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YENİKARAMAN 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.225520167, 28.994230616]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.266",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YASEMİN PARK 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.245352217, 29.083935107]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.267",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İRFANİYE TOKİ REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.208961274, 28.80749653]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.268",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ESKİ KARAMAN 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.217003456, 28.997489921]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.269",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ESKİ KARAMAN 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.216263326, 28.992583583]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.270",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KONAK 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.20979718, 28.989985609]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.271",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KARAPINAR REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.194416856, 29.188788193]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.272",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DENİZ BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.272931845, 28.98552677]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.273",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SÜPER GIDA PAZARI",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.179778118, 29.094517411]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.274",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜL MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.207499819, 29.10115281]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.275",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZPAKLAR GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.186624801, 29.083166555]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.276",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "UMUT GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.195924798, 29.115116492]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.277",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BEREKET MARKET - 3",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.173123386, 29.09693549]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.278",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KAFKAS  MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.171018841, 28.912700246]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.279",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BİNBİR IŞIK MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.187267565, 29.052441982]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.280",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SEZEN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.189008907, 29.076321773]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.281",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÖLVEREN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.217707085, 29.102980243]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.282",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AKTAŞ GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.19973266, 29.160480829]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.283",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "VE-Sİ GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.178614059, 29.086937286]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.284",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KOPALLAR 2 MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.176834405, 29.099254013]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.285",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İNTİZAM 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191494844, 29.055355595]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.286",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MİLLET 9 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.213481439, 29.10666318]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.287",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "1050 KONUTLAR 3",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.244718672, 28.970603188]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.288",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "F.S.M REYONU EMEK",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.262791155, 28.953431903]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.289",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇİFTEHAVUZLAR 8",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.215340957, 29.053845932]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.290",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MİLLET 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.213753844, 29.103225107]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.291",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YILDIRIM 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191354739, 29.081251258]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.292",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ATICILAR 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.200678221, 29.079504989]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.293",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇİFTE HAVUZLAR 11",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.212404261, 29.055912841]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.294",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MİLLET 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.216835756, 29.100298724]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.295",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DİKKALDIRIM 3",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.207295388, 29.009209321]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.296",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MALTEPE 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.178234823, 29.098262437]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.297",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SELÇUK BEY 8 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.184676812, 29.110795314]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.298",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "152 EVLER 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.189190175, 29.10902578]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.299",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DEMİRTAŞ 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.265708798, 29.097002448]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.300",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İHSANİYE 8 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.215671385, 28.984031568]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.301",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YILDIRIM 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.187564025, 29.080098956]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.302",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MAKSEM 2",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.181818615, 29.062266062]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.303",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "NAMIK KEMAL 8",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.196949685, 29.081696101]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.304",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SERVİS KAFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.259239847, 29.001167274]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.305",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ATATEPE SOSYAL TESİSLERİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.419919794, 29.137319756]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.306",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KAYHAN SOSYAL TESİSLERİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.18421172, 29.070650436]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.307",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "PINARBAŞI SOSYAL TESİSİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.183029893, 29.054086236]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.308",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AKÇALAR A.V.M",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.175042901, 28.741173331]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.309",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DÜRDANE KÖYÜ\n KAL. KOOP",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.339626544, 29.082772389]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.310",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ATALAY TİCARET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.17853936, 29.061834189]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.311",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "USLU MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.210503044, 29.052007549]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.312",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AKÇA MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.251272338, 28.995080376]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.313",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZDEN GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.185378432, 29.116392996]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.314",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZEN GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.242291355, 29.080046173]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.315",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ZEYTİNCİ MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.206096242, 29.063827949]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.316",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "EMPA MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.302721663, 29.057890413]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.317",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "EREN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.269197921, 29.099502265]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.318",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "EREN GIDA - 53",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191109617, 29.094851694]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.319",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BEKİL MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.186549083, 29.101043369]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.320",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BALKAN BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.237998808, 28.995414801]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.321",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "NAMIKKEMAL 7",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.19849781, 29.082556472]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.322",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KARADENİZ \nŞARKÜTERİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.273650942, 28.944498267]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.323",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ERSOY MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.46552016, 29.10569521]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.324",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AYNA MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.275916437, 29.090069295]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.325",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SOĞANLI 8 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.209372699, 29.042821669]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.326",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MUDANYA 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.377439947, 28.879996842]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.327",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ALTINOVA 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.21970835, 29.068905326]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.328",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İSTİKLAL 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.223241842, 29.007176648]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.329",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İHSANİYE 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.221544883, 28.98806428]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.330",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAĞLARBAŞI 19",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.237121961, 28.99268479]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.331",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "TERMİNAL 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.265200571, 29.054341687]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.332",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "İSTİKLAL 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.225958486, 29.009074306]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.333",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ORHANELİ 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [39.901787981, 28.993876274]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.334",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HAMİTLER 11",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.245139458, 28.984307636]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.335",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BEYAZIT 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.188165784, 29.101549146]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.336",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SİNANDEDE 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.187851597, 29.088706179]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.337",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ALACA HIRKA 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.183693009, 29.051606808]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.338",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜNEŞTEPE 6 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.249885519, 29.005419724]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.339",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YEDİSELVİLER 2",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.183198264, 29.090810974]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.340",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GENÇ MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191758205, 29.15156132]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.341",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ELMASBAHÇE 2 \nREYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.189572003, 29.074502677]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.342",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜVEN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.190601555, 29.116041576]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.343",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "PRESTİJ PARK A.V.M",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.197715209, 28.995019874]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.344",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YANAR BAKKALİYE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.207741446, 29.042107061]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.345",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "NİLÜFER MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.175466075, 29.090480443]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.346",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ALBAYRAK MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.179882127, 29.099714883]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.347",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "OYRACA GIDA LTD.ŞTİ.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.215316268, 29.074646552]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.348",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZ-BE KURUYEMİŞ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.185990276, 29.136968781]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.349",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇANDIR TEKEL BAYİİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.181341146, 29.07749777]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.350",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HAMİTLER MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.244764789, 28.981016773]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.351",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ERFA GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.495152165, 29.306421754]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.352",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ALTINŞEHİR 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.229623783, 28.922968367]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.353",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SOĞANLI 11 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.208733675, 29.038976528]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.354",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÜÇ EVLER MARKETCİLİK LTD.ŞTİ.(ŞENMAR)",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.185215872, 28.939911154]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.355",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DEMETEVLER 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.203449034, 29.177731463]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.356",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇALI 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.176827323, 28.921249104]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.357",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "N.M.K.EĞİTİM HİZ.\nGIDA.PAZ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.270536723, 29.081211578]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.358",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DİLSİZOĞLU MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.190536044, 29.110805447]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.359",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KARAGÖZ BAKKALI",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.207427902, 29.092803962]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.360",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YEŞİL BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.18655955, 29.144640144]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.361",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZTÜRK MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.183579633, 29.100416899]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.362",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MİNİMAR 2 MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.238375434, 28.984185367]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.363",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AKAY BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.180747959, 29.119428287]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.364",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "OĞUZ GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.178486505, 29.054772408]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.365",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜL  MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.205528695, 29.037487459]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.366",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ŞEN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.181410289, 29.065865824]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.367",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MERKEZ BAYİİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.251916835, 28.956327609]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.368",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "OLCAY GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.223387321, 29.105915947]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.369",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YENİ BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.181980614, 29.128370462]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.370",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ARAZ MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.260244961, 28.958743979]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.371",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HAMZABEY 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.193356003, 29.042519743]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.372",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HÜRRİYET 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.221034, 29.002929876]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.373",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SELAMET REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.205814972, 29.07335076]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.374",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ATAEVLER 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.225541308, 28.963205828]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.375",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YENİKARAMAN 5",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.222219568, 29.000245634]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.376",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ATICILAR 8 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.202415147, 29.07997391]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.377",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BEYAZIT 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191455245, 29.096893536]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.378",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YEŞİLYAYLA 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.17778138, 29.109370596]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.379",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HÜDAVENDİGAR 3",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.205419834, 29.010976874]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.380",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YUNUS EMRE 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.206382713, 29.102846136]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.381",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇİFTEHAVUZLAR 12",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.215034368, 29.049652935]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.382",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÜNEŞTEPE 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.249953906, 29.005535005]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.383",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KARAAĞAÇ 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.176950702, 29.067790918]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.384",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "DEĞİRMENLİ KIZIK 8",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.178686322, 29.107122502]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.385",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YUNUSELİ 9 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.250247713, 29.009272663]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.386",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇİFTEHAVUZLAR 15",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.207762082, 29.059750917]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.387",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KONAK 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.207200234, 28.981465365]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.388",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BAĞLARBAŞI 17",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.239804264, 28.987534376]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.389",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "EMEK 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.257290182, 28.955409014]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.390",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZEL MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.229745318, 28.967939733]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.391",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YENİKENT 2 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.266748176, 28.981273867]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.392",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "AFRİKA CAFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.220200807, 29.045537726]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.393",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ERTUĞRULGAZİ MEYDAN KAFE SOSYAL TES.",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.1867002, 29.063673527]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.394",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KANALBOYU REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.208806483, 29.04856875]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.395",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZLER MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.274352047, 29.093844857]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.396",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇALI GIDA PAZARI",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.170027874, 28.920384201]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.397",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GOLDEN PASTANESİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.358482425, 28.913237999]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.398",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ATASOY MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.202204757, 29.093315975]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.399",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖZKAN TUHAFİYE \nDOĞAN GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.209420459, 29.064719544]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.400",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YAĞMUR BÜFE",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.216952948, 29.072898692]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.401",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "KARADENİZ MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.25944205, 29.016406045]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.402",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ZÜMRÜT MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.183195469, 29.070960293]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.403",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YÜKSEL GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.209199896, 29.101934264]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.404",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "UÇ BEYLER GIDA",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.298256544, 29.064612273]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.405",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HACIVAT 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.196440798, 29.145923636]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.406",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HALİS DOĞRU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.174190836, 29.083851445]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.407",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "HAMİTLER 12 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.243934268, 28.995712862]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.408",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MERVE MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.19028075, 29.113072495]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.409",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "YEĞEN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.179480776, 28.938221206]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.410",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ŞEYDA MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.179298237, 29.137166456]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.411",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ZÜMRÜTEVLER 5",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.175190814, 29.095328729]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.412",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇAMLICA 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.19613385, 28.98389203]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.413",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ADNAN MENDERES 3",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.259724645, 28.970093385]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.414",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ADNAN MENDERES 2",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.255571382, 28.965813977]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.415",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "SIRACEVİZLER 4 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.178616435, 29.091626572]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.416",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ORTABAĞLAR 8 \nREYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.189178988, 29.116199873]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.417",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "GÖLPARK SOSYAL TESİSİ",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.199494235, 29.054686686]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.418",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ABAY MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.258561381, 28.870831599]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.419",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ERDOĞAN MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.170137463, 29.088222306]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.420",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÖRS MARKET",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.18136037, 29.093205731]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.421",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "23 NİSAN REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.220962706, 28.940915825]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.422",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "29 EKİM 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.22150381, 28.910935503]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.423",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ADNAN MENDERES 3",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.259222939, 28.970145338]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.424",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "BÜYÜKORHAN 1 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [39.771223193, 28.890896606]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.425",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇIRPAN 9 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.193606419, 29.056697573]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.426",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇIRPAN 7 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.194840623, 29.060303002]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.427",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇİFTEHAVUZLAR 18",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.215588018, 29.04995285]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.428",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ÇİFTEHAVUZLAR 17",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.210523395, 29.056421664]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.429",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "ELMASBAHÇELER 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.191713873, 29.077853006]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.430",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "EĞİTİM 10 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.18613612, 29.107038332]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.431",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MİMARSİNAN 3 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.186404595, 29.123889782]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.432",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MİMARSİNAN 5 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.188793992, 29.124243269]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.433",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MUDANYA 16 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.354314619, 28.917215984]
+    }
+  },
+  {
+    "id": "bursa_besassatisnoktalari.434",
+    "ust_katego": "ALIŞVERİŞ",
+    "alt_katego": "BESAŞ SATIŞ NOKTASI",
+    "ad": "MUDANYA 18 REYONU",
+    "geojson": {
+      "type": "Point",
+      "coordinates": [40.365970813, 28.901623863]
+    }
+  }
+]
